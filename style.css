@@ -36,7 +36,7 @@ h1 {
 
 .btns {
     position: relative;
-    width: 20rem;
+    width: 25rem;
     display: flex;
     justify-content: space-between;
 }
@@ -47,6 +47,7 @@ button {
     border: none;
     border-radius: 10%;
     border: 1px solid gray;
+    font-size: 1.5rem;
 }
 
 #yessir {
@@ -56,7 +57,7 @@ button {
 }
 
 body {
-    background-color: #F5E2E3;
+    background-color: #FFD1DC;
     display: flex;
     flex-direction: column;
     justify-content: center;
